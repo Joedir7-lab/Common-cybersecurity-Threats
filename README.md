@@ -1,78 +1,65 @@
-# Assignment 3: Understanding Common Cyber Threats
+# Understanding Common Cyber Threats
 
 ## Part A: Definitions
 
-**1. What is a cyber threat?**  
-A cyber threat is any potential danger that could harm computer systems, networks, or data. It doesn’t have to happen yet - it’s just the possibility that something bad could occur.
+## What is a cyber threat?  
+A cyber threat is any potential danger that could harm computer systems,networks, or data.
 
-**2. What is a vulnerability?**  
-A vulnerability is a weakness or flaw in software, hardware, or even human behavior. It’s like an open door that a threat can use to get in.
+## What is a vulnerability? 
+A vulnerability is a weakness or flaw in software, hardware, or even how people behave behavior.
 
-**3. What is a cyber attack?**  
-A cyber attack is when someone actually tries to exploit a vulnerability to damage a system, steal data, or disrupt services.
+## What is a cyber attack?  
+A cyber attack is when an attacker actually tries to exploit vulnerabilities to damage a system, steal data.
 
-**4. Explain the difference between a threat, a vulnerability, and an attack.**  
-Think of a house:
-- **Threat** = A burglar walking around your neighborhood. They *could* break in.
-- **Vulnerability** = You left your window unlocked. That’s the weakness.  
-- **Attack** = The burglar actually climbs through the window and steals something.  
+## Explain the difference between a threat, a vulnerability, and an attack.
+lets think of a house:
+-Threat: A burglar walking around the neighborhood. They could break in.
+-Vulnerability: You left your window unlocked. That’s the weakness.  
+-Attack: The burglar actually climbs through the window and steals something.  
 So: Threat is the possibility, Vulnerability is the weakness, Attack is the action.
 
----
+## Research
 
-## Part B: Research
+### Phishing
+What it is: Tricking people with fake emails, texts, or websites to get personal info like passwords ect.  
 
-### **1. Phishing**
-**What it is**: Tricking people with fake emails, texts, or websites to get personal info like passwords or card details.  
+How it works: Attackers pretend to be a trusted company. They send a link that looks real. When you click they steal what you type.  
 
-**How it works**: Attackers pretend to be a trusted company. They send a link that looks real. When you click and log in, they steal what you type.  
+Real-life example: You receive an email that looks like it’s from your bank.The link actually goes to a fake website.If you type your username and password there, the attacker now has full access to your real bank account.
 
-**Real-life example**: 2020 Google Docs Phishing. People got emails saying "Someone shared a Google Doc with you". The link led to a fake login page and thousands of Google accounts were stolen.  
-
-**How to protect yourself**: 
+How to protect yourself: 
 - Check the sender’s email address carefully
 - Don’t click links from unknown emails
 - Enable 2-Factor Authentication
 - Hover over links to see the real URL
 
-### **2. Malware**
-**What it is**: Malicious software made to damage or spy on a device. Includes viruses, trojans, and spyware.  
+### Malware
+What it is: Malicious software made to damage or spy on a device. Includes viruses, trojans etc. 
 
-**How it works**: You download it by clicking a bad attachment or fake app. Once installed, it can delete files, record keystrokes, or send your data to hackers.  
+How it works: You download it by clicking a bad attachment or fake app. Once installed, it can delete files and record keystrokes.  
 
-**Real-life example**: Emotet (2014-2021). It spread through infected Word documents and stole banking info from millions of computers before being taken down by police.  
+Real-life example: you see a free version of a game on awebsite and decide to download it but then the link xontained a keylogger so it sends whatever you type to the attacker. 
 
-**How to protect yourself**:
-- Keep antivirus software updated
-- Don’t download files from unknown sources
-- Update your OS and apps regularly
-- Backup important files
+How to protect yourself: Keep antivirus software updated and Don’t download files from unknown sources.
 
-### **3. Ransomware**
-**What it is**: Malware that locks your files and demands money to unlock them.  
+### Ransomware
+What it is: Malware that locks your files and demands money to unlock them.  
 
-**How it works**: It encrypts all your documents and photos. A message pops up asking for Bitcoin payment with a countdown timer.  
+How it works: It encrypts all your documents and photos. A message pops up asking for Bitcoin payment with a countdown timer.  
 
-**Real-life example**: Colonial Pipeline (2021). Hackers shut down a major US fuel pipeline with ransomware. The company paid $4.4 million to get operations back.  
+Real-life example: you click on a email that looks likeits from a bank and once you click on it it downloads ransomware and encrypts all your files and photos and a message popsup demanding $400 in bitcoin witin an amount of hours.  
 
-**How to protect yourself**:
-- Keep offline backups of important data
-- Don’t open suspicious email attachments
-- Use endpoint protection and firewalls
-- Patch software vulnerabilities quickly
+How to protect yourself: Keep offline backups of important data and Don’t open suspicious email attachments
 
-### **4. Social Engineering**
-**What it is**: Manipulating people instead of computers to get access to info or systems.  
+### Social Engineering
+What it is: Manipulating people instead of computers to get access to info or systems.  
 
-**How it works**: Attackers build trust by pretending to be IT support, a boss, or a friend. They convince you to give up passwords or transfer money.  
+How it works: Attackers build trust by pretending to be IT support, a boss, or a friend. They convince you to give up passwords or transfer money.  
 
-**Real-life example**: 2020 Twitter Hack. Attackers called Twitter employees pretending to be from IT. They got login credentials and used them to hack celebrity accounts to run a Bitcoin scam.  
+Real-life example: Someone pretending to be from a banking company wanting your credentials to our bamk account to "veryif" or clear a billing 
 
-**How to protect yourself**:
-- Verify anyone asking for sensitive info, even over the phone
-- Security awareness training
-- Don’t overshare personal details online
-- Use multi-person approval for money transfers
+How to protect yourself:
+- Verify anyone asking for sensitive info, even over the phone and Don’t overshare personal details online
 
 ### **5. Denial-of-Service (DoS/DDoS)**
 **What it is**: Flooding a website or server with so much traffic that it crashes and real users can’t access it.  
