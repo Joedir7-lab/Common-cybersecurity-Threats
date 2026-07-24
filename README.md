@@ -61,28 +61,31 @@ Real-life example: Someone pretending to be from a banking company wanting your 
 How to protect yourself:
 - Verify anyone asking for sensitive info, even over the phone and Don’t overshare personal details online
 
-### **5. Denial-of-Service (DoS/DDoS)**
-**What it is**: Flooding a website or server with so much traffic that it crashes and real users can’t access it.  
+### DoS/DDoS (denial of service)
+What it is: Flooding a website or server with so much traffic that it crashes and real users can’t access it.  
 
-**How it works**: DoS = one computer. DDoS = thousands of infected computers called a "botnet" all attack at once.  
+How it works: 
+- DoS = one computer. 
+- DDoS = thousands of infected computers called a "botnet" all attack at once.  
 
-**Real-life example**: Dyn DNS Attack (2016). The Mirai botnet attacked Dyn, a company that runs website addresses. Sites like Netflix, Twitter, and Reddit went offline for hours.  
+Real-life example: When an attacker floods the server of your favourite game and it ends up not functoning   
 
-**How to protect yourself**:
-- Use DDoS protection services like Cloudflare
-- Set up traffic rate limits and firewalls
-- Have backup servers
-- Keep IoT devices patched so they can’t join botnets
+How to protect yourself:
+- Set up traffic rate limits and firewalls and Have backup servers
+  
 
----
+## Critical Thinking
 
-## Part C: Critical Thinking
+Which cyber attack do you think is the most dangerous today, and why? 
+I think Ransomware is the most dangerous today.  
+Reason: It hits both individuals and critical organizations like hospitals, schools, and pipelines. Unlike data theft where you might not know you were hit, ransomware shuts everything down immediately. It also makes money for criminals.
 
-**1. Which cyber attack do you think is the most dangerous today, and why?**  
-I think **Ransomware** is the most dangerous today.  
-Reason: It hits both individuals and critical organizations like hospitals, schools, and pipelines. Unlike data theft where you might not know you were hit, ransomware shuts everything down immediately. It also makes money for criminals, so attacks keep increasing. Even with backups, the downtime can cost millions and risk lives in hospitals.
+If you were the IT manager of a bank, which three security measures would you implement first to protect customers?  
 
-**2. If you were the IT manager of a bank, which three security measures would you implement first to protect customers?**  
-1. **Multi-Factor Authentication (MFA) for all accounts** - Even if a password is stolen in a phishing attack, hackers still can’t log in without the second code.
-2. **Employee Security Training + Phishing Simulations** - Most bank breaches start with a person clicking something. Training staff to spot social engineering is the cheapest and most effective defense.
-3. **24/7 Monitoring + Regular Backups** - Constant monitoring to detect attacks early, and daily offline backups so if ransomware hits, we can restore customer data without paying.# Common-cybersecurity-Threats
+Multi-Factor Authentication (MFA) for all accounts 
+- Even if a password is stolen in a phishing attack, hackers still can’t log in without the second code.
+- 
+Employee Security Training and Phishing Simulations 
+- Most bank breaches start with a person clicking something. Training staff to spot social engineering is the cheapest and most effective defense.
+24/7 Monitoring + Regular Backups
+  - Constant monitoring to detect attacks early, and daily offline backups so if ransomware hits, we can restore customer data without paying.
