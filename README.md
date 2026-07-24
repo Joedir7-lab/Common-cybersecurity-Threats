@@ -88,4 +88,4 @@ Multi-Factor Authentication (MFA) for all accounts
 Employee Security Training and Phishing Simulations 
 - Most bank breaches start with a person clicking something. Training staff to spot social engineering is the cheapest and most effective defense.
 24/7 Monitoring + Regular Backups
-  - Constant monitoring to detect attacks early, and daily offline backups so if ransomware hits, we can restore customer data without paying.
+- Constant monitoring to detect attacks early, and daily offline backups so if ransomware hits, we can restore customer data without paying.
